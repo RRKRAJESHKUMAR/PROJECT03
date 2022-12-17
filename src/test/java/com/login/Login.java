@@ -5,8 +5,9 @@ public class Login {
 	private void userName() {
 	}
 	
-	private void passWord() {
-
+	private void clickLogin() {
 	}
-
+	
+	private void welcomeMsg() {
+	}
 }
